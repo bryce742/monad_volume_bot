@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+my_web3_env/
+
+# Secrets
+.env
+
